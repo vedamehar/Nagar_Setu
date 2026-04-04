@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-multipart
+requests
+twilio
+SQLAlchemy
+python-dotenv

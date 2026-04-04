@@ -1,0 +1,35 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Env and secrets
+.env
+*.env
+*.pem
+*.key
+*firebase-adminsdk*.json
+
+# Logs and temp
+*.log
+*.tmp
+*.temp
+complaints.db
+
+# Data/artifacts generated locally
+downloads/
+nlp_model/model/
+nlp_model/tokenizer/
+nlp_model/nlp_predictions_*.json
+nlp_model/setup_check_report*.json
