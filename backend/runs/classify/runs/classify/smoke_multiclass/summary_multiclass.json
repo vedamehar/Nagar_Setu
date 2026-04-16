@@ -1,0 +1,6 @@
+{
+  "save_dir": "D:\\Work\\Hack\\PVG - App\\Dataset\\project\\runs\\classify\\runs\\classify\\smoke_multiclass",
+  "best_checkpoint": "D:\\Work\\Hack\\PVG - App\\Dataset\\project\\runs\\classify\\runs\\classify\\smoke_multiclass\\weights\\best.pt",
+  "last_checkpoint": "D:\\Work\\Hack\\PVG - App\\Dataset\\project\\runs\\classify\\runs\\classify\\smoke_multiclass\\weights\\last.pt",
+  "device": "0"
+}

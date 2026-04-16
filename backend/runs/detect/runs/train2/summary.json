@@ -1,0 +1,17 @@
+{
+  "best_model": "D:\\Work\\Hack\\PVG - App\\Dataset\\project\\runs\\detect\\runs\\train2\\weights\\best.pt",
+  "train": {
+    "metrics/precision(B)": 0.5173232299176493,
+    "metrics/recall(B)": 0.4066770186335404,
+    "metrics/mAP50(B)": 0.42958732328435667,
+    "metrics/mAP50-95(B)": 0.18240666075800036,
+    "fitness": 0.18240666075800036
+  },
+  "val": {
+    "metrics/precision(B)": 0.5173132956966848,
+    "metrics/recall(B)": 0.4066770186335404,
+    "metrics/mAP50(B)": 0.42959864668680414,
+    "metrics/mAP50-95(B)": 0.1824624290886892,
+    "fitness": 0.1824624290886892
+  }
+}

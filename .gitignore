@@ -29,7 +29,10 @@ complaints.db
 
 # Data/artifacts generated locally
 downloads/
-nlp_model/model/
-nlp_model/tokenizer/
-nlp_model/nlp_predictions_*.json
-nlp_model/setup_check_report*.json
+**/downloads/
+**/downloads/**
+ai-services/nlp-service/nlp_model/model/
+ai-services/nlp-service/nlp_model/tokenizer/
+ai-services/nlp-service/nlp_model/nlp_predictions_*.json
+ai-services/nlp-service/nlp_model/setup_check_report*.json
+ai-services/vision-service/runs/

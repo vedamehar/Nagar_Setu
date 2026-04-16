@@ -1,0 +1,38 @@
+[
+  {
+    "issue_category": "Roads",
+    "department": "Roads & PWD (PMC Roads)",
+    "priority": "A1 (High)",
+    "response_time": "1 hour",
+    "resolution_time": "6 hours",
+    "confidence": {
+      "issue_category_confidence": 0.9642,
+      "department_confidence": 0.9724,
+      "priority_confidence": 0.9159,
+      "response_time_confidence": 0.9114,
+      "resolution_time_confidence": 0.931
+    },
+    "mean_confidence": 0.939,
+    "actionable": true,
+    "rejection_reason": null,
+    "complaint_part": "There is a pothole"
+  },
+  {
+    "issue_category": "Water",
+    "department": "Water Supply (PMC Water)",
+    "priority": "A1 (High)",
+    "response_time": "1 hour",
+    "resolution_time": "6 hours",
+    "confidence": {
+      "issue_category_confidence": 0.9954,
+      "department_confidence": 0.9928,
+      "priority_confidence": 0.841,
+      "response_time_confidence": 0.8551,
+      "resolution_time_confidence": 0.8647
+    },
+    "mean_confidence": 0.9098,
+    "actionable": true,
+    "rejection_reason": null,
+    "complaint_part": "water leakage"
+  }
+]

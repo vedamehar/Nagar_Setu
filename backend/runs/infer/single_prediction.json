@@ -1,0 +1,22 @@
+{
+  "image": "D:\\Work\\Hack\\PVG - App\\Dataset\\Test\\test7.jpg",
+  "issue": "pothole",
+  "severity": "LOW",
+  "count": 1,
+  "priority": "LOW",
+  "damage_area_ratio": 0.020743,
+  "detections": [
+    {
+      "class_id": 0,
+      "label": "pothole",
+      "confidence": 0.3701,
+      "bbox": [
+        134.38,
+        133.27,
+        184.39,
+        154.14
+      ]
+    }
+  ],
+  "annotated_image": "runs\\infer\\single\\test7.jpg"
+}

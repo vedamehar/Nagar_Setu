@@ -1,0 +1,18 @@
+[
+  {
+    "issue_category": "Roads",
+    "department": "Roads & PWD (PMC Roads)",
+    "priority": "A1 (High)",
+    "response_time": "1 hour",
+    "resolution_time": "6 hours",
+    "complaint_part": "There is a pothole"
+  },
+  {
+    "issue_category": "Water",
+    "department": "Water Supply (PMC Water)",
+    "priority": "A1 (High)",
+    "response_time": "1 hour",
+    "resolution_time": "6 hours",
+    "complaint_part": "water leakage"
+  }
+]

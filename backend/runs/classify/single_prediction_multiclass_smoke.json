@@ -1,0 +1,9 @@
+{
+  "image": "D:\\Work\\Hack\\PVG - App\\Dataset\\pothole detection_new.v1i.multiclass\\test\\images159_jpg.rf.50cc48fb6a915a16d6cf93918c31c884.jpg",
+  "predicted_class": "Pothole",
+  "class_confidence": 0.9638,
+  "issue": "pothole",
+  "severity": "HIGH",
+  "priority": "CRITICAL",
+  "note": "This dataset is image classification format, so count/multiple pothole localization is not available from this model."
+}

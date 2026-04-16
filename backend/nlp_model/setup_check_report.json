@@ -1,0 +1,96 @@
+{
+  "mode": "all",
+  "ok": true,
+  "checks": [
+    {
+      "name": "python_version",
+      "ok": true,
+      "message": "Python 3.13.1"
+    },
+    {
+      "name": "platform",
+      "ok": true,
+      "message": "Windows-11-10.0.26200-SP0"
+    },
+    {
+      "name": "package:transformers",
+      "ok": true,
+      "message": "installed (5.5.0)"
+    },
+    {
+      "name": "package:torch",
+      "ok": true,
+      "message": "installed (2.11.0+cu128)"
+    },
+    {
+      "name": "package:sklearn",
+      "ok": true,
+      "message": "installed (1.8.0)"
+    },
+    {
+      "name": "package:pandas",
+      "ok": true,
+      "message": "installed (3.0.2)"
+    },
+    {
+      "name": "package:numpy",
+      "ok": true,
+      "message": "installed (2.4.4)"
+    },
+    {
+      "name": "package:tqdm",
+      "ok": true,
+      "message": "installed (4.67.3)"
+    },
+    {
+      "name": "cpu_runtime",
+      "ok": true,
+      "message": "CPU execution available; CUDA is also available (you can still force CPU with --device cpu)"
+    },
+    {
+      "name": "file:predict_script",
+      "ok": true,
+      "message": "D:\\Work\\Hack\\PVG - App\\Dataset\\project\\nlp_model\\predict_complaint_cli.py"
+    },
+    {
+      "name": "file:infer_script",
+      "ok": true,
+      "message": "D:\\Work\\Hack\\PVG - App\\Dataset\\project\\nlp_model\\infer_nlp.py"
+    },
+    {
+      "name": "file:train_script",
+      "ok": true,
+      "message": "D:\\Work\\Hack\\PVG - App\\Dataset\\project\\nlp_model\\train_nlp.py"
+    },
+    {
+      "name": "file:requirements",
+      "ok": true,
+      "message": "D:\\Work\\Hack\\PVG - App\\Dataset\\project\\nlp_model\\requirements.txt"
+    },
+    {
+      "name": "file:dataset_csv",
+      "ok": true,
+      "message": "D:\\Work\\Hack\\PVG - App\\Dataset\\project\\nlp_model\\civic_nlp_dataset_10000.csv"
+    },
+    {
+      "name": "dir:model_dir",
+      "ok": true,
+      "message": "D:\\Work\\Hack\\PVG - App\\Dataset\\project\\nlp_model\\model"
+    },
+    {
+      "name": "file:best_model",
+      "ok": true,
+      "message": "D:\\Work\\Hack\\PVG - App\\Dataset\\project\\nlp_model\\model\\best_model.pt"
+    },
+    {
+      "name": "dir:tokenizer_dir",
+      "ok": true,
+      "message": "D:\\Work\\Hack\\PVG - App\\Dataset\\project\\nlp_model\\tokenizer"
+    },
+    {
+      "name": "file:label_encoders",
+      "ok": true,
+      "message": "D:\\Work\\Hack\\PVG - App\\Dataset\\project\\nlp_model\\label_encoders.pkl"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "issue_category": "Sanitation",
+    "department": "Garbage & Sanitation (PMC)",
+    "priority": "A1 (High)",
+    "response_time": "1 hour",
+    "resolution_time": "6 hours",
+    "complaint_part": "Garbage not collected"
+  },
+  {
+    "issue_category": "Sanitation",
+    "department": "Garbage & Sanitation (PMC)",
+    "priority": "A3 (Low)",
+    "response_time": "12 hours",
+    "resolution_time": "72 hours",
+    "complaint_part": "dirty public toilet"
+  }
+]

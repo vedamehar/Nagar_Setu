@@ -1,0 +1,14 @@
+{
+  "image": "D:\\Work\\Hack\\PVG - App\\Dataset\\Test\\test9.jpg",
+  "model": "runs\\classify\\train_multiclass\\weights\\best.pt",
+  "predicted_class": "Pothole",
+  "class_confidence": 0.999,
+  "issue": "pothole",
+  "severity": "HIGH",
+  "priority": "CRITICAL",
+  "severity_thresholds": {
+    "medium": 0.6,
+    "high": 0.85
+  },
+  "note": "This model is image-classification based. It predicts issue type and severity estimate for the whole image, not bounding-box count of multiple potholes."
+}

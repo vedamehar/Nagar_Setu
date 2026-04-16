@@ -1,0 +1,32 @@
+[
+  {
+    "issue_category": null,
+    "department": null,
+    "priority": null,
+    "response_time": null,
+    "resolution_time": null,
+    "actionable": false,
+    "rejection_reason": "non_civic_or_nonsensical_text",
+    "confidence": {
+      "issue_category_confidence": 0.3975,
+      "department_confidence": 0.4376,
+      "priority_confidence": 0.4178,
+      "response_time_confidence": 0.5261,
+      "resolution_time_confidence": 0.5147
+    },
+    "mean_confidence": 0.4587,
+    "complaint_part": "Fuck you Amazona"
+  },
+  {
+    "issue_category": null,
+    "department": null,
+    "priority": null,
+    "response_time": null,
+    "resolution_time": null,
+    "actionable": false,
+    "rejection_reason": "too_short_or_fragment",
+    "confidence": {},
+    "mean_confidence": 0.0,
+    "complaint_part": "Vit TPO"
+  }
+]

@@ -1,0 +1,74 @@
+{
+  "best_epoch": 1,
+  "best_metrics": {
+    "issue_category": {
+      "accuracy": 1.0,
+      "f1_weighted": 1.0,
+      "precision_weighted": 1.0,
+      "recall_weighted": 1.0
+    },
+    "department": {
+      "accuracy": 1.0,
+      "f1_weighted": 1.0,
+      "precision_weighted": 1.0,
+      "recall_weighted": 1.0
+    },
+    "priority": {
+      "accuracy": 1.0,
+      "f1_weighted": 1.0,
+      "precision_weighted": 1.0,
+      "recall_weighted": 1.0
+    },
+    "response_time": {
+      "accuracy": 1.0,
+      "f1_weighted": 1.0,
+      "precision_weighted": 1.0,
+      "recall_weighted": 1.0
+    },
+    "resolution_time": {
+      "accuracy": 1.0,
+      "f1_weighted": 1.0,
+      "precision_weighted": 1.0,
+      "recall_weighted": 1.0
+    },
+    "overall": {
+      "mean_f1_weighted": 1.0,
+      "heads": 5
+    }
+  },
+  "model_checkpoint": "D:\\Work\\Hack\\PVG - App\\Dataset\\project\\nlp_model\\model\\best_model.pt",
+  "label_mappings": {
+    "issue_category": [
+      "Electricity",
+      "Health",
+      "Roads",
+      "Sanitation",
+      "Water"
+    ],
+    "department": [
+      "Electricity (MSEDCL)",
+      "Garbage & Sanitation (PMC)",
+      "Health Department (PMC Health)",
+      "Roads & PWD (PMC Roads)",
+      "Water Supply (PMC Water)"
+    ],
+    "priority": [
+      "A1 (High)",
+      "A2 (Medium)",
+      "A3 (Low)",
+      "E (Critical)"
+    ],
+    "response_time": [
+      "1 hour",
+      "12 hours",
+      "15 minutes",
+      "6 hours"
+    ],
+    "resolution_time": [
+      "2 hours",
+      "24 hours",
+      "6 hours",
+      "72 hours"
+    ]
+  }
+}
